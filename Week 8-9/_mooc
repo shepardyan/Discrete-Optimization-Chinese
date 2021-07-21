@@ -1,0 +1,125 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [
+        {
+            "model": "arrows.mzn", 
+            "id": "Ku9ac", 
+            "name": "Arrows Model Stage A"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "id": "h3DLo", 
+            "name": "Arrows Model Stage B"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "id": "Iap42", 
+            "name": "Arrows Model Stage C"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "id": "Sq9tP", 
+            "name": "Arrows Model Stage D"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "id": "p7SBN", 
+            "name": "Arrows Model Stage E"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "id": "s9xDD", 
+            "name": "Arrows Model Stage F"
+        }
+    ], 
+    "name": "Arrows All", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsA_0.dzn", 
+            "id": "NWGcl", 
+            "timeout": "60", 
+            "name": "Arrows Problem Stage A 1"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsA_1.dzn", 
+            "id": "jD2HI", 
+            "timeout": "60", 
+            "name": "Arrows Problem Stage A 2"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsB_1.dzn", 
+            "id": "U53Ld", 
+            "timeout": "60", 
+            "name": "Arrows Problem Stage B 1"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsB_2.dzn", 
+            "id": "z07tz", 
+            "timeout": "60", 
+            "name": "Arrows Problem Stage B 2"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsC_0.dzn", 
+            "id": "cXY46", 
+            "timeout": "60", 
+            "name": "Arrows Problem Stage C 1"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsC_4.dzn", 
+            "id": "Hirzd", 
+            "timeout": "60", 
+            "name": "Arrows Problem Stage C 2"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsD_0.dzn", 
+            "id": "ZgLoJ", 
+            "timeout": "180", 
+            "name": "Arrows Problem Stage D 1"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsD_2.dzn", 
+            "id": "LY57A", 
+            "timeout": "180", 
+            "name": "Arrows Problem Stage D 2"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsE_1.dzn", 
+            "id": "DYgzQ", 
+            "timeout": "180", 
+            "name": "Arrows Problem Stage E 1"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsE_2.dzn", 
+            "id": "IRXCE", 
+            "timeout": "180", 
+            "name": "Arrows Problem Stage E 2"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsF_0.dzn", 
+            "id": "oo0N9", 
+            "timeout": "180", 
+            "name": "Arrows Problem Stage F 1"
+        }, 
+        {
+            "model": "arrows.mzn", 
+            "data": "./data/arrowsF_1.dzn", 
+            "id": "QMNSP", 
+            "timeout": "180", 
+            "name": "Arrows Problem Stage F 2"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "MajUPHvfEeaTpw7wV8QFtw"
+}

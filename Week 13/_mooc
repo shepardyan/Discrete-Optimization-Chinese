@@ -1,0 +1,94 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [], 
+    "name": "Refugee Assignment", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_1.dzn", 
+            "id": "QIzj2", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 1"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_2.dzn", 
+            "id": "3yjhu", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 2"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_3.dzn", 
+            "id": "iX0HH", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 3"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_4.dzn", 
+            "id": "60ELz", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 4"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_5.dzn", 
+            "id": "Yr3w3", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 5"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_6.dzn", 
+            "id": "8Uz1c", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 6"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_7.dzn", 
+            "id": "P0dLd", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 7"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_8.dzn", 
+            "id": "LApWF", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 8"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_9.dzn", 
+            "id": "FxuOQ", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 9"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_10.dzn", 
+            "id": "iOXQs", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 10"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_11.dzn", 
+            "id": "5NsDQ", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 11"
+        }, 
+        {
+            "model": "dummy.mzn", 
+            "data": "./data/refugee_12.dzn", 
+            "id": "JsnDm", 
+            "timeout": "300", 
+            "name": "Refugee Assignment 12"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "wwe0YNvNEee50gptXywlnA"
+}

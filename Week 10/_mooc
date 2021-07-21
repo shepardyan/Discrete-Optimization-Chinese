@@ -1,0 +1,37 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [
+        {
+            "model": "parade.mzn", 
+            "id": "MvrLT", 
+            "name": "Parade Model"
+        }
+    ], 
+    "name": "Birthday Parade", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "parade.mzn", 
+            "data": "./data/parade5.dzn", 
+            "id": "c71i0", 
+            "timeout": "30", 
+            "name": "Parade 1"
+        }, 
+        {
+            "model": "parade.mzn", 
+            "data": "./data/parade11.dzn", 
+            "id": "UWFGY", 
+            "timeout": "300", 
+            "name": "Parade 2"
+        }, 
+        {
+            "model": "parade.mzn", 
+            "data": "./data/parade17.dzn", 
+            "id": "qxMxk", 
+            "timeout": "60", 
+            "name": "Parade 3"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "iMATgNvMEeeuSBIQMqUXMg"
+}

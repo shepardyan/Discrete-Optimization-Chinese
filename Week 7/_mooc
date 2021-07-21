@@ -1,0 +1,68 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [
+        {
+            "model": "suitor_schedule.mzn", 
+            "id": "YT6ES", 
+            "name": "Suitor Schedule Model Stage A"
+        }, 
+        {
+            "model": "suitor_schedule.mzn", 
+            "id": "Je50M", 
+            "name": "Suitor Schedule Model Stage B"
+        }, 
+        {
+            "model": "suitor_schedule.mzn", 
+            "id": "fWJmH", 
+            "name": "Suitor Schedule Model Stage C"
+        }
+    ], 
+    "name": "Suitor Schedule All", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "suitor_schedule.mzn", 
+            "data": "./data/suitor_scheduleA_0.dzn", 
+            "id": "NdK2y", 
+            "timeout": "60", 
+            "name": "Suitor Schedule Problem Stage A 1"
+        }, 
+        {
+            "model": "suitor_schedule.mzn", 
+            "data": "./data/suitor_scheduleA_3.dzn", 
+            "id": "R1Q1L", 
+            "timeout": "60", 
+            "name": "Suitor Schedule Problem Stage A 2"
+        }, 
+        {
+            "model": "suitor_schedule.mzn", 
+            "data": "./data/suitor_scheduleB_2.dzn", 
+            "id": "GavnN", 
+            "timeout": "60", 
+            "name": "Suitor Schedule Problem Stage B 1"
+        }, 
+        {
+            "model": "suitor_schedule.mzn", 
+            "data": "./data/suitor_scheduleB_4.dzn", 
+            "id": "BOytD", 
+            "timeout": "60", 
+            "name": "Suitor Schedule Problem Stage B 2"
+        }, 
+        {
+            "model": "suitor_schedule.mzn", 
+            "data": "./data/suitor_scheduleC_1.dzn", 
+            "id": "5wOXo", 
+            "timeout": "60", 
+            "name": "Suitor Schedule Problem Stage C 1"
+        }, 
+        {
+            "model": "suitor_schedule.mzn", 
+            "data": "./data/suitor_scheduleC_3.dzn", 
+            "id": "wfsDs", 
+            "timeout": "60", 
+            "name": "Suitor Schedule Problem Stage C 2"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "5UAg3XveEeaykw4ENABBmQ"
+}

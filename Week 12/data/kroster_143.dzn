@@ -1,0 +1,14 @@
+week_length = 7;
+nb_workers = 26;
+min_daysoff = 2;
+max_daysoff = 4;
+min_work = 3;
+max_work = 7;
+nb_shifts = 4;
+shift_name = ["D", "A", "N", "E"];
+shift_block_min = [2, 3, 3, 1];
+shift_block_max = [6, 4, 4, 4];
+nb_forbidden = 5;
+forbidden_before = [3, 2, 1, 4, 4];
+forbidden_after = [1, 1, 2, 3, 2];
+temp_req = array2d(1..4,1..7,[3, 3, 3, 3, 3, 0, 0, 3, 2, 2, 3, 3, 0, 0, 8, 7, 1, 3, 1, 0, 0, 7, 7, 7, 7, 6, 2, 2]);

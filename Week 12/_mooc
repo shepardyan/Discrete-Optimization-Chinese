@@ -1,0 +1,37 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [
+        {
+            "model": "kroster.mzn", 
+            "id": "29FUh", 
+            "name": "Kitchen Roster Model"
+        }
+    ], 
+    "name": "Kitchen Roster", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "kroster.mzn", 
+            "data": "./data/kroster_39.dzn", 
+            "id": "6EPbr", 
+            "timeout": "60", 
+            "name": "Kitchen Roster 1"
+        }, 
+        {
+            "model": "kroster.mzn", 
+            "data": "./data/kroster_7.dzn", 
+            "id": "nLChH", 
+            "timeout": "60", 
+            "name": "Kitchen Roster 2"
+        }, 
+        {
+            "model": "kroster.mzn", 
+            "data": "./data/kroster_143.dzn", 
+            "id": "meCmE", 
+            "timeout": "30", 
+            "name": "Kitchen Roster 3"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "1S1RiCgDEeikCA5fj2utpA"
+}

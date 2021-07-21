@@ -1,0 +1,13 @@
+5UAg3XveEeaykw4ENABBmQ
+Suitor Schedule All
+6
+NdK2y, suitor_schedule.mzn,    ./data/suitor_scheduleA_0.dzn, 60, Suitor Schedule Problem Stage A 1
+R1Q1L, suitor_schedule.mzn,    ./data/suitor_scheduleA_3.dzn, 60, Suitor Schedule Problem Stage A 2
+GavnN, suitor_schedule.mzn,    ./data/suitor_scheduleB_2.dzn, 60, Suitor Schedule Problem Stage B 1
+BOytD, suitor_schedule.mzn,    ./data/suitor_scheduleB_4.dzn, 60, Suitor Schedule Problem Stage B 2
+5wOXo, suitor_schedule.mzn,    ./data/suitor_scheduleC_1.dzn, 60, Suitor Schedule Problem Stage C 1
+wfsDs, suitor_schedule.mzn,    ./data/suitor_scheduleC_3.dzn, 60, Suitor Schedule Problem Stage C 2
+3
+YT6ES, suitor_schedule.mzn, Suitor Schedule Model Stage A
+Je50M, suitor_schedule.mzn, Suitor Schedule Model Stage B
+fWJmH, suitor_schedule.mzn, Suitor Schedule Model Stage C

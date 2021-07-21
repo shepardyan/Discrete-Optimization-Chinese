@@ -1,0 +1,44 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [
+        {
+            "model": "banquet.mzn", 
+            "id": "9F6FM", 
+            "name": "Banquet Model"
+        }
+    ], 
+    "name": "Banquet Preparation", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "banquet.mzn", 
+            "data": "./data/banquet_1.dzn", 
+            "id": "QyQg2", 
+            "timeout": "30", 
+            "name": "Banquet 1"
+        }, 
+        {
+            "model": "banquet.mzn", 
+            "data": "./data/banquet_2.dzn", 
+            "id": "nFepy", 
+            "timeout": "300", 
+            "name": "Banquet 2"
+        }, 
+        {
+            "model": "banquet.mzn", 
+            "data": "./data/banquet_4.dzn", 
+            "id": "7DsDn", 
+            "timeout": "300", 
+            "name": "Banquet 3"
+        }, 
+        {
+            "model": "banquet.mzn", 
+            "data": "./data/banquet_12.dzn", 
+            "id": "yLX4z", 
+            "timeout": "30", 
+            "name": "Banquet 4"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "Z2kdhtvNEee5gA5ImDzjLA"
+}

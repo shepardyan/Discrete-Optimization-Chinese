@@ -1,0 +1,51 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [
+        {
+            "model": "to_jing.mzn", 
+            "id": "uANQG", 
+            "name": "To Jing Model"
+        }
+    ], 
+    "name": "To Jing", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "to_jing.mzn", 
+            "data": "./data/to_jing_0.dzn", 
+            "id": "ySl0C", 
+            "timeout": "60", 
+            "name": "To Jing 1"
+        }, 
+        {
+            "model": "to_jing.mzn", 
+            "data": "./data/to_jing_1.dzn", 
+            "id": "f0PL0", 
+            "timeout": "60", 
+            "name": "To Jing 2"
+        }, 
+        {
+            "model": "to_jing.mzn", 
+            "data": "./data/to_jing_2.dzn", 
+            "id": "aI0dM", 
+            "timeout": "60", 
+            "name": "To Jing 3"
+        }, 
+        {
+            "model": "to_jing.mzn", 
+            "data": "./data/to_jing_3.dzn", 
+            "id": "oXtDj", 
+            "timeout": "600", 
+            "name": "To Jing 4"
+        }, 
+        {
+            "model": "to_jing.mzn", 
+            "data": "./data/to_jing_12.dzn", 
+            "id": "M24A7", 
+            "timeout": "200", 
+            "name": "To Jing 5"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "ainXtXvbEea1KAr-FeZePw"
+}

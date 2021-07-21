@@ -1,0 +1,44 @@
+{
+    "submissionURL": "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1", 
+    "modelAssignments": [
+        {
+            "model": "elephant2.mzn", 
+            "id": "S5mkG", 
+            "name": "Elephant2 Model"
+        }
+    ], 
+    "name": "Elephant2", 
+    "moocPasswordString": "Assignment token", 
+    "solutionAssignments": [
+        {
+            "model": "elephant2.mzn", 
+            "data": "./data/elephant2_1.dzn", 
+            "id": "JXysb", 
+            "timeout": "200", 
+            "name": "Elephant2 Problem 1"
+        }, 
+        {
+            "model": "elephant2.mzn", 
+            "data": "./data/elephant2_2.dzn", 
+            "id": "RGGHc", 
+            "timeout": "600", 
+            "name": "Elephant2 Problem 2"
+        }, 
+        {
+            "model": "elephant2.mzn", 
+            "data": "./data/elephant2_6.dzn", 
+            "id": "lLiHW", 
+            "timeout": "600", 
+            "name": "Elephant2 Problem 3"
+        }, 
+        {
+            "model": "elephant2.mzn", 
+            "data": "./data/elephant2_9.dzn", 
+            "id": "4jUmF", 
+            "timeout": "600", 
+            "name": "Elephant2 Problem 4"
+        }
+    ], 
+    "moocName": "Coursera", 
+    "assignmentKey": "MDTYp3vcEealjAqv3OD_6w"
+}
